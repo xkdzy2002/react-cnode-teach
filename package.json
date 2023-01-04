@@ -19,7 +19,7 @@
   "author": "zhaoyuan",
   "license": "ISC",
   "devDependencies": {
-    "@babel/core": "^7.1.0",
+    "@babel/core": "^7.20.7",
     "@babel/preset-env": "^7.1.0",
     "@babel/preset-react": "^7.0.0",
     "babel-eslint": "^10.0.1",
@@ -38,7 +38,7 @@
     "eslint-plugin-react": "^7.11.1",
     "eslint-plugin-standard": "^4.0.0",
     "extract-text-webpack-plugin": "^3.0.2",
-    "html-webpack-plugin": "^3.2.0",
+    "html-webpack-plugin": "^5.5.0",
     "http-proxy-middleware": "^0.19.0",
     "husky": "^1.0.1",
     "memory-fs": "^0.4.1",
